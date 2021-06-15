@@ -1,0 +1,17 @@
+header{
+    padding: 15px;
+    background-color: lightblue;
+}
+
+footer{
+    padding: 15px;
+    width: 100%;
+    background-color: lightcoral;
+    position: absolute;
+    bottom: 0;
+}
+
+td,th{
+    padding: 20px;
+    border: solid 1px black;
+}
